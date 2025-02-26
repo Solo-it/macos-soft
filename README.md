@@ -4,11 +4,11 @@
 
 https://stackoverflow.com/questions/34909101/how-can-i-easily-switch-between-php-versions-on-mac-osx
 
-php 7.4 not install
+if php 7.4 not install then weed install from:
 
    brew install shivammathur/php/php@7.4
 
-  brew list | grep php
+   brew list | grep php
 
 ## Change from 8.4 to 7.4
    
