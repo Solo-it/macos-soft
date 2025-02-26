@@ -19,3 +19,9 @@ if php 7.4 not install then weed install from:
   brew unlink php@7.4
   brew link php
 ```
+
+## Composer update
+
+```
+   composer self-update
+```
